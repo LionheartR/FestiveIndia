@@ -6,6 +6,16 @@
         "source": "github",
         "repo": "ykdojo/claude-code-tips"
       }
+    },
+    "superpowers-marketplace": {
+      "source": {
+        "source": "github",
+        "repo": "obra/superpowers-marketplace"
+      }
     }
+  },
+  "enabledPlugins": {
+    "dx@ykdojo": true,
+    "superpowers@superpowers-marketplace": true
   }
 }
